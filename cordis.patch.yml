@@ -1,0 +1,8 @@
+# plugin-cdp-cli bundle layer — multi-endpoint CDP interface fabric (dsh-xxx-cli).
+
+- insert:
+    - id: cdp
+      name: plugin-cdp-cli
+      config:
+        endpoints: []
+        defaultPort: 9225
